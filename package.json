@@ -1,0 +1,22 @@
+{
+  "name": "handwriting-recognition",
+  "version": "1.0.0",
+  "description": "A simple neural net trained to do handwriting recognition based on the MNIST training data set",
+  "author": "Carmen Popoviciu <carmen.popoviciu@gmail.com>",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarmenPopoviciu/handwriting-recognition.git"
+  },
+  "dependencies": {
+    "neuralNet": "https://github.com/CarmenPopoviciu/neural-net.git"
+  },
+  "keywords": [
+    "neural net",
+    "machine learning",
+    "handwriting recognition"
+  ],
+  "license": "ISC"
+}
